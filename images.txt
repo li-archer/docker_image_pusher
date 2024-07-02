@@ -1,3 +1,2 @@
 nginx
-rancher/rancher:v2.8-head
 rancher/rancher:stable
