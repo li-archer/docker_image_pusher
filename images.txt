@@ -1,1 +1,1 @@
-kolla/centos-source-nova-compute:ussuri
+kolla/rocky-source-nova-compute:antelope
