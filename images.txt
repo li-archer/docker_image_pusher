@@ -1,1 +1,1 @@
-rocky-binary-aodh-api:antelope
+kolla/centos-source-nova-compute:ussuri
