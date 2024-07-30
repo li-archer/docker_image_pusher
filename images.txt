@@ -1,1 +1,1 @@
-kolla/rocky-source-nova-compute:Antelope
+kolla/rocky-binary-aodh-api:antelope
